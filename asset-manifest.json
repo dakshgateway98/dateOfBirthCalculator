@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dateOfBirthCalculator/static/css/main.c9ddcf65.css",
+    "main.js": "/dateOfBirthCalculator/static/js/main.2a0f050f.js",
+    "static/js/787.d875d302.chunk.js": "/dateOfBirthCalculator/static/js/787.d875d302.chunk.js",
+    "index.html": "/dateOfBirthCalculator/index.html",
+    "main.c9ddcf65.css.map": "/dateOfBirthCalculator/static/css/main.c9ddcf65.css.map",
+    "main.2a0f050f.js.map": "/dateOfBirthCalculator/static/js/main.2a0f050f.js.map",
+    "787.d875d302.chunk.js.map": "/dateOfBirthCalculator/static/js/787.d875d302.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9ddcf65.css",
+    "static/js/main.2a0f050f.js"
+  ]
+}
